@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989355780132",
+    "firebase_url": "https://riftcabs-b5a63.firebaseio.com",
+    "project_id": "riftcabs-b5a63",
+    "storage_bucket": "riftcabs-b5a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989355780132:android:4ee86881ca2d37e6",
+        "android_client_info": {
+          "package_name": "sidney.odingo.cabify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989355780132-77g7fa29aq800krrf5l5e3urshdsh26a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sidney.odingo.cabify",
+            "certificate_hash": "7dfbac9e3793fca8c385e53452d4ada24552e1d3"
+          }
+        },
+        {
+          "client_id": "989355780132-45h6v4823k8f4ci4l98sag1ompv4kmp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEfTrb6rUmPbYsPTWCL5pNCmdZO3BwE-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989355780132-45h6v4823k8f4ci4l98sag1ompv4kmp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

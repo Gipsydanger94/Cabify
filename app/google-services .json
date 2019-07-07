@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539954873378",
+    "firebase_url": "https://smartcab-cc458.firebaseio.com",
+    "project_id": "smartcab-cc458",
+    "storage_bucket": "smartcab-cc458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539954873378:android:2a100c8362300b9e",
+        "android_client_info": {
+          "package_name": "sidney.odingo.smartcab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539954873378-8an3t60lgj009ki2oa0ckj3tv1fs76b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sidney.odingo.smartcab",
+            "certificate_hash": "7dfbac9e3793fca8c385e53452d4ada24552e1d3"
+          }
+        },
+        {
+          "client_id": "539954873378-ehrpi5k3v1ovi9b4sgka5i7nc90mtgs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATzxA_Mg9oZZp4R0HuU5d_W4P7K9loU50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539954873378-ehrpi5k3v1ovi9b4sgka5i7nc90mtgs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
